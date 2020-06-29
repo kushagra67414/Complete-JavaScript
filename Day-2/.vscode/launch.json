@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "file:///D:/java%20script/2.%20Basics%20Variables,%20Data%20Types,%20Operators%20_%20Functions/basics-11-subtract-multiply-divide/index.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
