@@ -24,3 +24,10 @@
 
 [Click here for DAY- 2 Progress](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-2)
 
+
+
+# Note
+
+[When using two equals signs for JavaScript equality testing, some funky conversions take place](https://dorey.github.io/JavaScript-Equality-Table/)
+>must check
+
