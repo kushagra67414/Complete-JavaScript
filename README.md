@@ -12,3 +12,12 @@
 * Core Data Types
 
 [Day-1](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-1)
+
+## DAY- 2
+
+* objects and logical operators
+* more function reusability
+* Using loop 
+* == vs ===
+* falsy and truth value's
+
