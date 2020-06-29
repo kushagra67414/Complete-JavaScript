@@ -21,3 +21,6 @@
 * == vs ===
 * falsy and truth value's
 
+
+[Click here for DAY- 2 Progress](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-2)
+
