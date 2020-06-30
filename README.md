@@ -31,3 +31,6 @@
 [When using two equals signs for JavaScript equality testing, some funky conversions take place](https://dorey.github.io/JavaScript-Equality-Table/)
 >must check
 
+## DAY-3 
+* working on a game type web page 
+* still working on it 
