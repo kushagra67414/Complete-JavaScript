@@ -34,3 +34,13 @@
 ## DAY-3 
 * working on a game type web page 
 * still working on it 
+
+## Day-4 
+* Game Details
+  > 1 player and 1 monster will attack
+  > and player have abilty to heal it up.
+ 
+    ### today's progress
+  > Done with monster and  Player damage functionality.
+  > and player HEALUP functionality.
+ 
