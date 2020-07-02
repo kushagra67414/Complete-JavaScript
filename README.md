@@ -55,6 +55,16 @@ if (node.parentNode) {
   // it's not in the tree already
   node.parentNode.removeChild(node);
 }`
-
  
 [click here](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-4)
+## DAY-5
+
+> add reset functionality so that game can be replayed.
+> Also ,BONUS life func for player 
+  * Controlling the Conditional Bonus Life (Without Boolean Operators!)
+  * Validating user input
+ `now will work on logs of all the backgroung things happening`
+ 
+ [click here](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-5/assets/scripts)
+ 
+ 
