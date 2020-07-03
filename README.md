@@ -75,3 +75,4 @@ if (node.parentNode) {
 > Done logs using if-else  and Switch case both.
 > Learn about 4 types loops in javascript.
 > Ternary Operator advantage : less code written.
+[Click here to check](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-6%20(using%20if-else)/assets/scripts)
