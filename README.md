@@ -76,3 +76,12 @@ if (node.parentNode) {
 > Learn about 4 types loops in javascript.
 > Ternary Operator advantage : less code written.
 [Click here to check](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-6%20(using%20if-else)/assets/scripts)
+
+## Day-7
+
+>  **IMPLEMENTING FOR - OF AND FOR - IN**.
+>  **Controlling Loops with break**
+> **Controlling Iteration using CONTINUE**
+[Click here to check](https://github.com/kushagra67414/Complete-JavaScript/tree/master/day-7/assets/scripts)
+
+
