@@ -85,4 +85,15 @@ if (node.parentNode) {
 
 [Click here to check](https://github.com/kushagra67414/Complete-JavaScript/tree/master/day-7/assets/scripts)
 
+## Day-8
+
+ * **Using continue for infinite Iterations**
+ * **Break and Continue**
+ * **Throwing custom errors**
+ * **Working with try-catch to Catch & Handle Errors**
+ 
+ [click here to check](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-8/assets/scripts)
+ 
+ 
+
 
