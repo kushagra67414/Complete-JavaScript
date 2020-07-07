@@ -96,4 +96,9 @@ if (node.parentNode) {
  
  
 
-
+## Day-9
+today done with :
+ * **Next-Level Debugging with the Chrome Devtools & Breakpoints** 
+ * **Testing Code Changes Directly in the Devtools**
+ * **Debugging Code directly Inside VS Code**
+ * **Understanding Hoisting**
