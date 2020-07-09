@@ -102,3 +102,12 @@ today done with :
  * **Testing Code Changes Directly in the Devtools**
  * **Debugging Code directly Inside VS Code**
  * **Understanding Hoisting**
+
+## Day-10
+today done with
+ * How Code is Parsed & Compiled 
+ * Inside the JavaScript Engine - How the Code Executes
+ * Strict Mode & Writing Good Code
+ * var vs let & const - Introducing Block Scope
+ * Primitive vs Reference Values
+ * heap n stack 
