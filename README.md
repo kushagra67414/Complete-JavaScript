@@ -111,3 +111,14 @@ today done with
  * var vs let & const - Introducing Block Scope
  * Primitive vs Reference Values
  * heap n stack 
+ 
+ [click here](https://github.com/kushagra67414/Complete-JavaScript/blob/master/Day-10/app.js)
+
+## Day-11
+today learn about:
+* Memory life cycle 
+* Circular references
+* **MARK - AND - SWEEP  ALGORITHM**
+
+      >   This algorithm reduces the definition of "an object is no longer needed" to "an object is unreachable"
+ 
