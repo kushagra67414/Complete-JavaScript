@@ -122,3 +122,6 @@ today learn about:
 
       >   This algorithm reduces the definition of "an object is no longer needed" to "an object is unreachable"
  
+* Memory management using anonymous function adding to eventListener as new objects is created at every click.
+* memory leak increases as function is called at every click.
+[click to check anonymous func](https://github.com/kushagra67414/Complete-JavaScript/blob/master/Day-11.1/app.js)
