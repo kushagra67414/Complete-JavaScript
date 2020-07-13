@@ -125,3 +125,18 @@ today learn about:
 * Memory management using anonymous function adding to eventListener as new objects is created at every click.
 * memory leak increases as function is called at every click.
 [click to check anonymous func](https://github.com/kushagra67414/Complete-JavaScript/blob/master/Day-11.1/app.js)
+
+
+LATE TO COMMITS MY WORK BECAUSE OF EXAM GOING ON. SORRY !!!!!!
+
+
+## dAY-12
+TODAY DONE WITH :
+1. MAKE A NEW GAME THAT IS : STONE , PAPER AND SCISSORS
+2. ARROW FUNCTIONS 
+3. ANONYMOUS FUNCTION
+4. learn HOW FUNCTIONS ARE OBJECTS TOO
+also done game with : ternary operator and arrow function.
+                      also if-else and anonymous function.
+                      
+[check here to go on game source code ](https://github.com/kushagra67414/Complete-JavaScript/blob/master/Day-12/app.js)
