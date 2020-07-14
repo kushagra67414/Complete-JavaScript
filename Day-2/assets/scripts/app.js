@@ -38,6 +38,7 @@ function calResult(calType) {
  ) {
    return;
  }
+ 
   const initialResult = currentResult;
   let mathOperator;
   if(calType == 'ADD'){
