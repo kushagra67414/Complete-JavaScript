@@ -130,7 +130,7 @@ today learn about:
 LATE TO COMMITS MY WORK BECAUSE OF EXAM GOING ON. SORRY !!!!!!
 
 
-## dAY-12
+## DAY-12
 TODAY DONE WITH :
 1. MAKE A NEW GAME THAT IS : STONE , PAPER AND SCISSORS
 2. ARROW FUNCTIONS 
@@ -140,3 +140,15 @@ also done game with : ternary operator and arrow function.
                       also if-else and anonymous function.
                       
 [check here to go on game source code ](https://github.com/kushagra67414/Complete-JavaScript/blob/master/Day-12/app.js)
+
+
+## Day-13
+today learn about:
+* how Functions are objects
+* Rest Operator and its alternative
+* Creating Functions Inside of Functions
+* Callback function working.
+* working with BIND OPERATOR.
+* CALL() AND APPLY() USES..
+
+[click here to checl code](https://github.com/kushagra67414/Complete-JavaScript/blob/master/Day13/app.js)
