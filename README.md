@@ -152,3 +152,13 @@ today learn about:
 * CALL() AND APPLY() USES..
 
 [click here to checl code](https://github.com/kushagra67414/Complete-JavaScript/blob/master/Day13/app.js)
+
+## Day-14
+Today Learn :
+* Working With DOM
+* Understanding the DOM and how it's created
+* Nodes & Elements
+* Selecting Elements in the DOM
+* Exploring and Changing DOM Properties
+
+[click here to check output](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-14)
