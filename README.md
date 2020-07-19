@@ -162,3 +162,17 @@ Today Learn :
 * Exploring and Changing DOM Properties
 
 [click here to check output](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-14)
+
+## Day-15
+Today Learn :
+* Attributes vs properties.
+* Selecting Multiple Elements & Summary
+* Traversing the DOM 
+* Traversing Child Nodes
+* Using parentNode & parentElement
+* Selecting Sibling Elements
+* DOM Traversal vs Query Methods
+* Styling DOM Elements ( 3 ways to do it)
+
+[click here to check code and screenshots](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-15)
+
