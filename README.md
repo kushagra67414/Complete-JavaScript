@@ -176,3 +176,10 @@ Today Learn :
 
 [click here to check code and screenshots](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-15)
 
+## Day-16
+today Learn :
+* Inserting Element in DOM
+* Adding Elements via HTML in Code
+* Creating Elements with JS 
+* Cloning DOM Nodes
+
