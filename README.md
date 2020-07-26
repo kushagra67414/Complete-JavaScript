@@ -183,3 +183,7 @@ today Learn :
 * Creating Elements with JS 
 * Cloning DOM Nodes
 
+## Day-17
+Start implementing DOM ELEMENTs.
+Working on a new websites.
+[click here for today's Progress](https://github.com/kushagra67414/Complete-JavaScript/blob/master/Day-17/assets/scripts/app.js)
