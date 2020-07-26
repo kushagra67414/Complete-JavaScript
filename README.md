@@ -190,10 +190,12 @@ Working on a new websites.
 
 ## Day-18
 Project INFO:
-Dynamically Stroring the movies name / course detail
-Deleting Dynamically
-Giving each button functionality 
-Also , Using all concepts learn till now 
-like : OBJECTS / ARRAY/ DOM ELEMENTS / CSS CLASSES/ TOGGLE() / BIND() ETC ETC....
+* Dynamically Stroring the movies name / course detail
+* Deleting Dynamically
+* Giving each button functionality 
+* Also , Using all concepts learn till now 
+* like : OBJECTS / ARRAY/ DOM ELEMENTS / CSS CLASSES/ TOGGLE() / BIND() ETC ETC....
+
+
 [CLICK HERE FOR PROGRESS](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-18/assets/scripts)
 
