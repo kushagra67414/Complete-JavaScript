@@ -199,3 +199,5 @@ Project INFO:
 
 [CLICK HERE FOR PROGRESS](https://github.com/kushagra67414/Complete-JavaScript/tree/master/Day-18/assets/scripts)
 
+
+  WILL OFF FOR FEW DAYS COMPLETING MY OTHER COURS SORRY !!!!!!!
